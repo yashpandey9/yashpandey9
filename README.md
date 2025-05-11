@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I’m a Software Developer 
+- 🌱 learning things that I find interesting
 
 <!---
 yashpandey9/yashpandey9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
